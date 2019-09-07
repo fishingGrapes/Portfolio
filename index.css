@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+    color: #99ff33;
+    font-family: 'IBM Plex Mono', monospace;
+}
+
+.leftfloat{
+    float: left;
+}
+
+.reduce_height{
+    line-height: 10%;
+}
+
+.rightfloat{
+    float: right;
+}
+
+hr.colored{
+    border-top: 2px solid #99ff33;
+}
+
+.listpoints{
+    line-height: 125%;
+}
+
+.link {
+     color: #00FF00; 
+}
+
+.link:hover {
+     color: #ccff99;
+}
